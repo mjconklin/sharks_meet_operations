@@ -23,6 +23,7 @@ Coming soon
   -   Missing swimmer in lane
   -   Any scoring system errors that will impact the times of an event/heat
   - As the final swimmer in a heat touches the pad, press buttons in the following order:
+    
     STORE PRINT
     {: .label .label-yellow }
     _this will write all times to receipt tape_

@@ -5,6 +5,7 @@ id: overview
 # Running a Successful Sharks Swim Meet
 
 ## Overview
+This site describes the tools and procedures used to run a Schottland YMCA Sharks swim meet.
 
 ## Roles and Responsibilities
 

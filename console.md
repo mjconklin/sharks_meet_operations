@@ -30,9 +30,11 @@ Coming soon
     
     RESET
     {: .label .label-red }
+    _this resets the clock in the scoring system_
     
     ENTER
     {: .label .label-gray }
+    _this accepts the Y/N question on reset_
 
     NEXT EVENT or HEAT +1
     {: .label .label-gray }

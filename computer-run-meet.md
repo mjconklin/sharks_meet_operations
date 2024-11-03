@@ -4,7 +4,14 @@ sidebar_label: Running a Meet
 title: Computer - Running a Meet
 nav_order: 7
 ---
+## Equipment 
 
+ -  Computer with Meet Manager software, attached to score console
+ -  Mouse/keypad (optional)
+ -  Meet program labeled 'Score Table'
+ -  Completed lane timer sheets
+ -  Completed DQ sheets from deck officials
+ -  Lineup adjustment forms from coaches 
 
 ## Meet Operations 
 ### Download Events to Console 

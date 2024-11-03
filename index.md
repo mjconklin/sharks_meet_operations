@@ -1,6 +1,7 @@
 ---
 id: overview
 sidebar_label: Overview
+nav_enabled: True
 ---
 
 # Running a Successful Sharks Swim Meet

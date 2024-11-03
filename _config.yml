@@ -3,8 +3,10 @@ title: Schottland YMCA Sharks Swim Meet Procedures
 sidebar:
   - overview
   - timers
-  - label: Console Operator
+  - label: Console Operations
     children:
       - console
       - console-adv
-  - computer
+  - label: Computer Operations
+      - computer-entries
+      - computer-run-meet

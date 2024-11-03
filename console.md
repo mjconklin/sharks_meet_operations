@@ -4,6 +4,7 @@ sidebar_label: Console Operations
 layout: default
 nav_enabled: true
 title: Console Operations
+nav_order: 3
 ---
 
 ## Equipment 

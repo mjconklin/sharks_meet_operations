@@ -8,5 +8,6 @@ sidebar:
       - console
       - console-adv
   - label: Computer Operations
+    children:
       - computer-entries
       - computer-run-meet

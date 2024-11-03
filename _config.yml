@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
-title: Schottland YMCA Sharks Swim Meet Procedures
+title: Sharks Meet Procedures
+nav_enabled: true
 sidebar:
   - overview
   - timers

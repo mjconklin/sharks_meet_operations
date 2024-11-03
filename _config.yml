@@ -1,4 +1,4 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+remote_theme: just-the-docs/just-the-docs
 title: Schottland YMCA Sharks Swim Meet Procedures
 sidebar:
   - overview

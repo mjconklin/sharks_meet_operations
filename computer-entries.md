@@ -1,6 +1,8 @@
 ---
 id: computer-entries
 sidebar_label: Adjusting Entries
+title: Adjusting Entries
+nav_enabled: true
 ---
 
 Equipment 

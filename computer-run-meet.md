@@ -11,7 +11,7 @@ nav_order: 7
 
 ### Get Times for Event/Heat 
 
-![Meet Manager Main Screen](img/mm_main_screen.png)
+![Meet Manager Main Screen](img/mm_main_screen.PNG)
 
 
 ### Manually Entering 25 yard Event Times 

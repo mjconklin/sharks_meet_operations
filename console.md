@@ -36,5 +36,4 @@ nav_order: 3
   - The console operator is critical to running a smooth, efficient meet.  It is not a difficult job, but requires nearly constant attention for the entire meet.
   - When coaches and officials approach the scorer's table, limit interactions to the computer operator to prevent distractions to the console operator. 
 
-[[/img/daktronics_console.jpg|"Daktronics Console"]]
-
+[!Daktronics Console](img/daktronics_console.jpg)

@@ -2,8 +2,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
   - overview
-  - label: Dev Docs
-    children:
-      - doc-1
-      - doc-2
-  - deployment
+  - timers
+  - console
+  - console-adv
+  - computer

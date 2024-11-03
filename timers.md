@@ -24,9 +24,9 @@ nav_order: 2
 -  Head timer will also have a stopwatch started at the beginning of each event – if one person in your lane failed to start on time, alert the head timer so that they can record a finish time for the swimmer in your lane 
 
 ## Notes 
--  Plunger times are important for providing a semi-automatic backup in the event of pad time failure.  The timer with the plunger button only needs to press the button at the conclusion of the race – not at the start.
--  Pads can fail to record an accurate finish time for several reasons
-  -  Bad electrical connection between pad and scoring system
-  -  Swimmer misses the pad on turn or finish
-  -  Swimmer lightly touches the pad, but doesn't exert enough force to send signal to scoring system
-  -  Lane pad was accidentally touched prior to swimmer finish (previous swimmer climbing out, e.g.) 
+- Plunger times are important for providing a semi-automatic backup in the event of pad time failure.  The timer with the plunger button only needs to press the button at the conclusion of the race – not at the start.
+- Pads can fail to record an accurate finish time for several reasons
+  - Bad electrical connection between pad and scoring system
+  - Swimmer misses the pad on turn or finish
+  - Swimmer lightly touches the pad, but doesn't exert enough force to send signal to scoring system
+  - Lane pad was accidentally touched prior to swimmer finish (previous swimmer climbing out, e.g.) 

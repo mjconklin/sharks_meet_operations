@@ -1,6 +1,9 @@
 ---
 id: timers
 sidebar_label: Lane Timers
+title: Lane Timers
+nav_enabled: true
+page_order: 3
 ---
 
 

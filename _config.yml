@@ -3,6 +3,8 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
   - overview
   - timers
-  - console
-  - console-adv
+  - label: Console Operator
+    children:
+      - console
+      - console-adv
   - computer

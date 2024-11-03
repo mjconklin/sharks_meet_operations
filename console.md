@@ -23,15 +23,18 @@ Coming soon
   -   Missing swimmer in lane
   -   Any scoring system errors that will impact the times of an event/heat
   - As the final swimmer in a heat touches the pad, press buttons in the following order:
-    1. STORE PRINT
+    STORE PRINT
     {: .label .label-yellow }
     _this will write all times to receipt tape_
-    3. RESET
+    
+    RESET
     {: .label .label-red }
-    4. ENTER
-    {: .label .label-gray-lt }
-    5. NEXT EVENT or HEAT +1
-    {: .label .label-gray-lt }
+    
+    ENTER
+    {: .label .label-gray }
+
+    NEXT EVENT or HEAT +1
+    {: .label .label-gray }
     _Heat +1 if additional heats remain in that event_
 
   - Be aware that events may not be consecutively numbered (For example, event 9 immediately follows event 5).  In this case, you will need to slowly depress next event button to increment console to appropriate number.   Do not press this button too rapidly – it will not register properly, but there is a limited amount of time between when the previous race finishes and the starter judge will start the next event.

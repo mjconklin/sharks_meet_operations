@@ -20,8 +20,8 @@ Coming soon
 
   - Receipt tape has a red stripe indicator when paper is low – be sure to install new spool when this appears
   - Make notes on meet program in the event of:
-  -   Missing swimmer in lane
-  -   Any scoring system errors that will impact the times of an event/heat
+    - Missing swimmer in lane
+    - Any scoring system errors that will impact the times of an event/heat
   - As the final swimmer in a heat touches the pad, press buttons in the following order:
     
     STORE PRINT

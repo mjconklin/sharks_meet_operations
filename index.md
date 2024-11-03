@@ -4,6 +4,7 @@ sidebar_label: Overview
 nav_enabled: True
 layout: home
 title: Overview
+page_order: 1
 ---
 
 # Running a Successful Sharks Swim Meet

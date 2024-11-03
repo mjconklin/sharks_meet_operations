@@ -3,7 +3,7 @@ id: computer-entries
 sidebar_label: Adjusting Entries
 title: Computer - Adjusting Entries
 nav_enabled: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Event Adjustments 

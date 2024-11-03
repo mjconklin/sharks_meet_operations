@@ -1,8 +1,8 @@
 ---
 id: computer-run-meet
 sidebar_label: Running a Meet
-title: Computer - Running a Meet
-nav_order: 6
+title: Computer - Operations 
+nav_order: 5
 ---
 ## Equipment 
 
@@ -19,7 +19,6 @@ nav_order: 6
 ### Get Times for Event/Heat 
 
 ![Meet Manager Main Screen](img/mm_main_screen.PNG)
-
 
 ### Manually Entering 25 yard Event Times 
 

@@ -26,19 +26,19 @@ Coming soon
     
     STORE PRINT
     {: .label .label-yellow }
-    _this will write all times to receipt tape_
+    _This will write all times to receipt tape_
     
     RESET
     {: .label .label-red }
-    _this resets the clock in the scoring system_
+    _This resets the clock in the scoring system_
     
-    ENTER
+    ENTER * YES
     {: .label .label-gray }
-    _this accepts the Y/N question on reset_
+    _This accepts the Y/N question on reset_
 
     NEXT EVENT or HEAT +1
     {: .label .label-gray }
-    _Heat +1 if additional heats remain in that event_
+    _Use Heat +1 if additional heats remain in that event. or Next Event if all heats have been completed_
 
   - Be aware that events may not be consecutively numbered (For example, event 9 immediately follows event 5).  In this case, you will need to slowly depress next event button to increment console to appropriate number.   Do not press this button too rapidly – it will not register properly, but there is a limited amount of time between when the previous race finishes and the starter judge will start the next event.
   - On the final length of an event, the console display for each lane will display an asterisk symbol.  This means the scoring system is ready to record a final time for that swimmer.   If for any reason the swimmer is approaching the pad wall on their finish leg, and the lane indicator does not show asterisk, press the 'Finish Arm #' for the appropriate lane. 

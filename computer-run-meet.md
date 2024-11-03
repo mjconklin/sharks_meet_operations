@@ -2,7 +2,7 @@
 id: computer-run-meet
 sidebar_label: Running a Meet
 title: Computer - Running a Meet
-nav_order: 7
+nav_order: 6
 ---
 ## Equipment 
 

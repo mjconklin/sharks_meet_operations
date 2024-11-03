@@ -16,8 +16,6 @@ nav_order: 3
 ## During the Meet 
 
   - Ensure event/heat number on console matches event/heat on program
-Coming soon
-
   - Receipt tape has a red stripe indicator when paper is low – be sure to install new spool when this appears
   - Make notes on meet program in the event of:
     - Missing swimmer in lane

@@ -8,4 +8,8 @@ layout: default
 
 ## Advanced Tasks
 
-### Adjusting event/heat manually
+### Turning off unused lanes
+
+### Adjusting event/heat number manually
+
+### Missed split touch

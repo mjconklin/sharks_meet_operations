@@ -1,5 +1,6 @@
 ---
 id: overview
+sidebar_label: Overview
 ---
 
 # Running a Successful Sharks Swim Meet

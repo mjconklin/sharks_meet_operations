@@ -47,5 +47,7 @@ nav_order: 3
 
   - The console operator is critical to running a smooth, efficient meet.  It is not a difficult job, but requires nearly constant attention for the entire meet.
   - When coaches and officials approach the scorer's table, limit interactions to the computer operator to prevent distractions to the console operator. 
+  - The console display shows each lane's completed length, as well as an indicator ("*") when the swimmer is approaching for their finish
+  - In the right-hand LCD panel, RT shows race time, E: shows event number, H: shows heat number, and L: shows total lengths for that event. (L: 08 for a 200, 02 for a 50, etc)
 
 ![Daktronics Console](img/daktronics_console.jpg)

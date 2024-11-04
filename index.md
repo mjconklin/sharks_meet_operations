@@ -25,6 +25,7 @@ This site describes the tools and procedures used to run a Schottland YMCA Shark
   - Improper stroke techniques, such as flutter kick in a breaststroke event
   - False starts
   - Failure to perform a legal turn in an event, such as a one-handed touch in fly
+- Provide DQ sheets to computer operator
 
 ### Lane Timers
 - Two timers per swim lane record each swimmer's time with hand-held watches
@@ -32,6 +33,7 @@ This site describes the tools and procedures used to run a Schottland YMCA Shark
 - Use the 'plunger' button attached to each lane, as the swimmer finishes each race
 - Ensure swimmer is ready for their race when called
 - Head timer supervises all lane timers, and also has a backup stopwatch in the event of a missed start in any lane
+- Provide completed timing sheets to computer operator
 
 ### Console Operator
 - Responsible for ensuring all events are recorded by the automatic scoring system
@@ -42,6 +44,8 @@ This site describes the tools and procedures used to run a Schottland YMCA Shark
 - Performs any adjustments to event lineups or relay team members, as submitted by coaches
 - Pulls data from Daktronics console after each race 
 - Records stopwatch times for any event with a pad malfunction
+- Validates times from automatic scoring system with stopwatch times if discrepancies are present
+- Enters all DQ information, including code/reason as supplied by the official
 
 ### Clerks
 - Line up 10-and-under swimmers prior to their events

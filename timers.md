@@ -22,6 +22,7 @@ nav_order: 2
   - Mark 'NS' for 'no swim' if swimmer assigned is not present
   - Swimmer went to wrong lane, but still swam in the event – note lane number
 -  Head timer will also have a stopwatch started at the beginning of each event – if one person in your lane failed to start on time, alert the head timer so that they can record a finish time for the swimmer in your lane 
+-  Do **_not_** pull swimmers out after their race has completed.   It can cause injury to their arms and shoulders.  If they need assistance, they can use a ladder if necessary, as long as it doesn't interfere with another swimmer's event.
 
 ## Notes 
 - Plunger times are important for providing a semi-automatic backup in the event of pad time failure.  The timer with the plunger button only needs to press the button at the conclusion of the race – not at the start.

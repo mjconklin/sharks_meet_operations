@@ -8,6 +8,7 @@ nav_order: 2
 
 ## Equipment 
 - 2 handheld digital stopwatches (1 for each of 2 people assigned to lane)
+- 1 'plunger' - semi-automated button attached to timing system
 - 1 clipboard with timing sheets for assigned lane
 - Pencil 
 

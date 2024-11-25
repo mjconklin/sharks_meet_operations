@@ -11,4 +11,5 @@ sidebar:
   - label: Computer Operations
     children:
       - computer-entries
-      - computer-run-meet
+      - computer-run-meeta
+  - resources

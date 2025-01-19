@@ -4,6 +4,7 @@ nav_enabled: true
 sidebar:
   - overview
   - timers
+  - equipment
   - label: Console Operations
     children:
       - console
